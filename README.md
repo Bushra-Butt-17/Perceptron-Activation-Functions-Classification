@@ -1,5 +1,4 @@
 
-
 # Perceptron Activation Functions Classification
 
 ## Overview
@@ -12,18 +11,18 @@ The Perceptron models are trained using the following activation functions:
 4. **Leaky ReLU**
 
 Each activation function is used to classify a synthetic dataset, and the accuracy of the models is compared. The dataset is generated randomly and split into training and testing sets.
+
 ## Images
 
 ### 1. Basic Perceptron Model
 
-![Basic Perceptron](https://github.com/Bushra-Butt-17/Perceptron-Activation-Functions-Classification/raw/main/basic_perceptron_image.png)
+![Basic Perceptron](https://github.com/Bushra-Butt-17/Perceptron-Activation-Functions-Classification/raw/main/basic_perceptron_image.png)  
 _A diagram of a basic perceptron._
 
 ### 2. Activation Functions
 
-![Activation Functions](https://github.com/Bushra-Butt-17/Perceptron-Activation-Functions-Classification/raw/main/ActivationFunctions.png)
+![Activation Functions](https://github.com/Bushra-Butt-17/Perceptron-Activation-Functions-Classification/raw/main/ActivationFunctions.png)  
 _A diagram showing decision boundaries of various activation functions: Sigmoid, Tanh, ReLU, and Leaky ReLU._
-```
 
 ## Project Structure
 The repository includes the following files:
@@ -113,5 +112,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Scikit-learn](https://scikit-learn.org/) for providing machine learning tools and datasets.
 - [NumPy](https://numpy.org/) for efficient numerical computations.
 - [Matplotlib](https://matplotlib.org/) for plotting decision boundaries.
-
-
+```
