@@ -101,6 +101,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Scikit-learn](https://scikit-learn.org/) for providing machine learning tools and datasets.
 - [NumPy](https://numpy.org/) for efficient numerical computations.
 - [Matplotlib](https://matplotlib.org/) for plotting decision boundaries.
-```
 
----
+
+## Images
+
+### 1. Basic Perceptron Model
+
+![Basic Perceptron](https://github.com/Bushra-Butt-17/Perceptron-Activation-Functions-Classification/raw/main/basic_perceptron_image.png)
+_A diagram of a basic perceptron._
+
+### 2. Activation Functions
+
+![Activation Functions](https://github.com/Bushra-Butt-17/Perceptron-Activation-Functions-Classification/raw/main/ActivationFunctions.png)
+_A diagram showing decision boundaries of various activation functions: Sigmoid, Tanh, ReLU, and Leaky ReLU._
+```
